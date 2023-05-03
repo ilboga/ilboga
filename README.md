@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Vue.js / MongoDB / API
+- 🌱 I’m currently learning React / Next.js
+- 💬 Ask me about a11y
+
 <!--
 **ilboga/ilboga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
