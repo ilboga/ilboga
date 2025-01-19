@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vue.js / MongoDB / API
-- 🌱 I’m currently learning React / Next.js
+- 🔭 I’m currently working on Vue.js / React / Next.js / MongoDB / API
+- 🌱 I’m currently learning typescript
 - 💬 Ask me about a11y
 
 <!--
